@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+.env*
+*.pem
+datos-crudos/
+__pycache__/
+*.pyc
+*.tsbuildinfo
+*.key
+.dev.vars
+credentials*.json
